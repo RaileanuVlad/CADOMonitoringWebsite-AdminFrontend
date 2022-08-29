@@ -1,6 +1,5 @@
 # Frontend
 
-Web App composed of a Microsoft SQL Database, a .NET Core 3.1 backend api and an Angular frontend split into admin and client sides. After development the web app was deployed to Azure and used in production.   
 This is the frontend developed for the admins of the website, where they can see and edit data as needed.
 
 ## Development server
